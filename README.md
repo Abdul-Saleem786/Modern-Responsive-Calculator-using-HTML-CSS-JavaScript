@@ -42,3 +42,10 @@ This is a professional, responsive calculator built using pure HTML, CSS, and Ja
 * Enter: Evaluate
 * Backspace: Delete last character
 * Escape: Clear all
+
+**Author**
+Abdul Saleem A
+B.Tech EEE (AI & ML Specialization)
+SMVEC, Puducherry
+LinkedIn: https://www.linkedin.com/in/abdulsaleem03
+GitHub: https://github.com/Abdul-Saleem786
